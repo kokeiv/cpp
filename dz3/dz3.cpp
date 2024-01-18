@@ -11,9 +11,9 @@ int main() {
 	file.read_file();
 
 
-	file += "!!!";
+	/*file += "!!!";
 
-	file.read_file();
+	file.read_file();*/
 
 	return 0;
 }
